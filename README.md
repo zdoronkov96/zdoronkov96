@@ -2,13 +2,14 @@
 ## Я Data Scientist — человек, который заставляет данные предсказывать будущее! 📊🔮
 Для меня данные — это ключ к решению самых сложных проблем: от постановки медицинских диагнозов до прогнозирования цен на недвижимость. Между сырыми цифрами и готовым решением всегда стоит «черный ящик» — модель. Проектируя эти модели, я нахожу скрытые инсайты и делаю мир вокруг чуточку лучше. Это меня вдохновляет! 🚀
 
-## Стек:
+## Стек: 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" style="border-radius: 12px; background: #242938; padding: 6px;" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" style="border-radius: 12px; background: #242938; padding: 6px;" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /
 </p>
 
 ## Связь:
