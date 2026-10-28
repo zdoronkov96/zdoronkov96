@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /
 </p>
 
-## Связь:
+## На связи:
 <p align="left">
   <a href="https://t.me/zdoronkov96" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="32" height="32" alt="Telegram" />
