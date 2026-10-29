@@ -14,15 +14,6 @@
 
 ## На связи:
 <p align="left">
-  <a href="https://t.me/zdoronkov96" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="32" height="32" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://e.mail.ru/compose?to=zdoronkov96@mail.ru" target="_blank">
-    <img src="https://cdn.simpleicons.org/maildotru/005FF9" width="32" height="32" alt="Mail.ru" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hh.ru/resume/29b7a2f4ff10cee7e40039ed1f746b58624677" target="_blank">
-    <img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white" height="32" alt="HeadHunter" />
-  </a>
+  <a href="https://t.me/zdoronkov96" target="_blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="32" height="32" alt="Telegram" /></a>
+  <a href="https://e.mail.ru/compose?to=zdoronkov96@mail.ru" target="_blank"><img src="https://cdn.simpleicons.org/maildotru/005FF9" width="32" height="32" alt="Mail.ru" /></a>
 </p>
